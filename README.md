@@ -1,4 +1,4 @@
-# ohmigod's profile
+# ohmigod's portfolio
 
 >Here I'll add my cybersecurity journey.
 _____
