@@ -3,7 +3,7 @@
 >Here I'll add my cybersecurity journey.
 _____
 
-**CTF Profiles:**
+**CTF Profiles (I don't play lol):**
 |**HackTheBox profile:**|**TryHackMe profile:**|
 |-----------------------------------------------------------|---------------------------------------------------|
 |![htb-logo](http://www.hackthebox.eu/badge/image/86046.jpg)|![thm-logo](https://i.ibb.co/pJr2hXL/ohmigod-1.png)|
