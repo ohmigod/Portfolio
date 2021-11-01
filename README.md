@@ -39,5 +39,5 @@ _____
 * **Penetration Testing** _by Georgia Weidman._
 * **Pentesting con FOCA** _by Chema Alonso._
 * **Metasploit para Pentesters** _by Pablo González Pérez._
-* **Pentesting con Kali Linux ROlling Release 2017** _by 0xword._
+* **Pentesting con Kali Linux Rolling Release 2017** _by 0xword._
 
