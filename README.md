@@ -21,7 +21,7 @@ _____
 **CTF Events:**
 
 * **HTB x UNI CTF 2020 - Quals:** 99th Place of 204 Teams.
-* **HTB Cyber Apocalypse 2021:** 963th Place of 4740 Teams.  
+* **HTB Cyber Apocalypse 2021:** 963th Place of 4,740 Teams.  
 
 _____
 
