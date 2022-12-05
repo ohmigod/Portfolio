@@ -15,6 +15,7 @@ _____
 * **Cybersecurity Fundamentals: A Practical Approach (2020)** _by Universidad Carlos III de Madrid._
 * **OSCP (2020)** _by Offensive Security._
 * **CRTP (2021)** _by Pentester Academy._
+* **eWPTXv2 (2022)** _by INE._
 
 _____
 
